@@ -1,0 +1,3 @@
+output.txt is the result of output file.
+word_counts is the source code file.
+Realize the word counts by dictionary. Check every line and every word in each line, if this word appear before, the count of that word plus one. Else record this new word into dictionary.

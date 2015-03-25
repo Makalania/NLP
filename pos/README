@@ -1,0 +1,3 @@
+The output.txt is the result in the same format as training and test data.
+The output.txt is in the same directory with tag.py and socre.py files.
+All the unknow word is replace with "*UNK*"

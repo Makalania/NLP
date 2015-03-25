@@ -1,0 +1,35 @@
+output.txt is the output result in parsing directory.
+output_file.txt is the result after used munge-trees which is in parsing/eval directory.
+
+The following is score parsing in general.  Bracketing FMeasure is 75.43%
+The program run time is around 30 mins
+
+=== Summary ===
+
+-- All --
+Number of sentence        =   1229
+Number of Error sentence  =    460
+Number of Skip  sentence  =      0
+Number of Valid sentence  =    769
+Bracketing Recall         =  72.53
+Bracketing Precision      =  78.57
+Bracketing FMeasure       =  75.43
+Complete match            =  14.82
+Average crossing          =   1.25
+No crossing               =  52.54
+2 or less crossing        =  81.14
+Tagging accuracy          =  89.81
+
+-- len<=40 --
+Number of sentence        =   1229
+Number of Error sentence  =    460
+Number of Skip  sentence  =      0
+Number of Valid sentence  =    769
+Bracketing Recall         =  72.53
+Bracketing Precision      =  78.57
+Bracketing FMeasure       =  75.43
+Complete match            =  14.82
+Average crossing          =   1.25
+No crossing               =  52.54
+2 or less crossing        =  81.14
+Tagging accuracy          =  89.81
